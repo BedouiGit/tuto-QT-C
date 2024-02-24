@@ -1,0 +1,9 @@
+voici un example de crud fonctionnel avec
+-int -float(double) -combobox -line edit - text edit -date edit -time edit
+
+et les metiers correspondants
+-stat ( selon le choix ) ->pie chart ->bar chart
+-mailing
+-ouverture video
+-export du tableau dans un fichier excel
+-tri et recherche dynamique
